@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @hackrdc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hai, aku @hackrdc
+- 👀 Saya tertarik dengan puisi html, php, & js.
+- 🌱 Saat ini saya sedang belajar memahami kode & iot.
+- 📫 Bagaimana cara menghubungi saya?  Email: help@hack.web.id
 
 <!---
-hackrdc/hackrdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hackrdc/hackrdc adalah kumpulan puisi html, php, & js.
 You can click the Preview link to take a look at your changes.
 --->
